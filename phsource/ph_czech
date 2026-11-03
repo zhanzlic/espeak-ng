@@ -37,5 +37,21 @@ phoneme r-     // syllabic r
   FMT(vowelr/r-voc)
 endphoneme
 
+phoneme l-     // syllabic l
+  vwl  starttype #@  endtype #@
+  ipa lU+0329
+  length 140
+  FMT(vwl_hi/l-voc)
+endphoneme
 
+phoneme ts
+  import_phoneme consonants/ts
+  voicingswitch dz
+  ipa ts
+endphoneme
 
+phoneme dz
+  import_phoneme consonants/dz
+  voicingswitch ts
+  ipa dz
+endphoneme
