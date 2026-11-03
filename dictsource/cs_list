@@ -83,7 +83,7 @@ _'	apostRof
 _"	uvozovki
 _,	tSa:Rka
 _-	mi:nus
-_;	zdR^edn^i:k
+_;	stR^edn^i:k
 _?	otazn^i:k
 __	pottr-Zen^i:
 _`	'obRa:ts,ena:||tS'a:Rka
@@ -104,11 +104,11 @@ _:	dv'ojtetSka
 *	hvjezJitSka	$max3
 %	pRotsento	$max3
 +	plus	$max3
-!	vigR^itSn^i:k	$max3
+!	vikR^itSn^i:k	$max3
 €	eURo
 @	zavina:tS
 &	ampr-sent
-#	gR^i:Zek
+#	kR^i:Zek
 /	lomeno
 \	beksleS
 
@@ -117,7 +117,7 @@ _:	dv'ojtetSka
 ÷	Jeleno
 §	paRagRaf
 ~	tilda
-^	zdR^i:Ska
+^	stR^i:Ska
 ©	k'opiRajt
 
 
@@ -417,7 +417,9 @@ unie       unije
 untitled   antitl-
 up         ap
 
-// sullabic l
+
+// syllabic l
+
 blb bl-b
 plch	pl-x
 vlk	vl-k
